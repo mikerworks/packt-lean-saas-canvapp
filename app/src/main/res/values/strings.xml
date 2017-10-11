@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Canvapp</string>
+    <string name="app_tag_line">Create and share your business model</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="nav_list">List Business model canvases</string>
+    <string name="nav_create">Make a new canvas</string>
+
+</resources>

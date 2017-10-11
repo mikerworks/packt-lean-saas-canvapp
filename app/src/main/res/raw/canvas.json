@@ -1,0 +1,76 @@
+{
+  "ELEMENTS": [
+    {
+      "ID": "TITLE",
+      "TITLE": "SHORT DESCRIPTION",
+      "DESCRIPTION": "Enter a descriptive title for your business model canvas.",
+      "HINT": "Enter your title here..."
+    },
+    {
+      "ID": "DESIGNED_FOR",
+      "TITLE": "WHAT IS IT FOR?",
+      "DESCRIPTION": "For what concept do you want to design this canvas for?",
+      "HINT": "Enter the description of your business model canvas here..."
+    },
+    {
+      "ID": "PROPOSITIONS",
+      "TITLE": "VALUE PROPOSITIONS",
+      "DESCRIPTION": "what value do you deliver to the customer? Which of your customer's problems are you helping to resolve? What bundles of services are you offering? Which needs do you satisfy?",
+      "HINT": "Enter your proposition here. What are the characteristics of it? What does it make unique? Is it price? Cost or risk reduction? A better design or performance? Is it more convenient? Why?..."
+    },
+    {
+      "ID": "SEGMENTS",
+      "TITLE": "CUSTOMER SEGMENTS",
+      "DESCRIPTION": "For who are you creating value?\nWho are you most important customers?",
+      "HINT": "Describe your customer segments here. Be as specific as possible. A niche market is much better as aiming for 'everybody'. If it is a platform what customers do you want to bring together. Who are your most important customers?..."
+    },
+    {
+      "ID": "CHANNELS",
+      "TITLE": "CHANNELS",
+      "DESCRIPTION": "Through which channels do your customer segments want to be reached? How are you reaching them now? How are your channels integrated?\nWhich ones work best?",
+      "HINT": "Describe your channels. How do you raise awareness? How can you help your customers to evaluate the value proposition? How can they purchase your services and how are they delivered?..."
+    },
+    {
+      "ID": "RELATIONSHIPS",
+      "TITLE": "CUSTOMER RELATIONSHIPS",
+      "DESCRIPTION": "What type of relationship does each of your customer segments do you expect to establish and maintain?\Which ones have you already established? How are they integrated with the rest of your business model?",
+      "HINT": "Describe your relationship to your customers. Do you offer a way for self service? Or do you offer dedicated and personal assistance? Is it a community or is it about co-creation?..."
+    },
+    {
+      "ID": "KEY_ACTIVITIES",
+      "TITLE": "KEY ACTIVITIES",
+      "DESCRIPTION": "What key activities do your value propositions require?\nWhat about distribution channels and customer relationships?",
+      "HINT": "Describe your key activities. What service or production do you need to provide or what problem do you need to solve?..."
+    },
+    {
+      "ID": "RESOURCES",
+      "TITLE": "KEY RESOURCES",
+      "DESCRIPTION": "What key resources do your value propositions require?\nTypes of resources can be physical, intellectual (patents), human or financial.",
+      "HINT": "Describe your key resources. Are they physical? Intellectual? Financial?..."
+    },
+    {
+      "ID": "PARTNERS",
+      "TITLE": "KEY PARTNERS",
+      "DESCRIPTION": "Who are your key partners?\nWho are your key suppliers?\nWhich key resources are you requiring from partners? Which key activities do partners perform?",
+      "HINT": "Describe your key partners and why they are or should be your key partners..."
+    },
+    {
+      "ID": "REVENUE",
+      "TITLE": "REVENUE STREAMS",
+      "DESCRIPTION": "For what value are your customers really willing to pay? For what do they pay now? How are they paying? How do you want them to pay?",
+      "HINT": "Describe your revenue model. Is it a freemium model? Subscriptions? Advertising? Does it have a fixed or dynamic price?..."
+    },
+    {
+      "ID": "COST",
+      "TITLE": "COST STRUCTURE",
+      "DESCRIPTION": "What are the most important costs inherent in your business model?\nWhich key resources and which key activites are most expensive?",
+      "HINT": "Describe the cost structure. What are the fixed costs and what the variable costs. Think of hosting costs or advertising costs. Also, is your business more cost driven or more value driven?..."
+    },
+    {
+      "ID": "CONTACT",
+      "TITLE": "CONTACT",
+      "DESCRIPTION": "What is your name and how can people reach you by email, twitter or through some other channel?",
+      "HINT": "Enter your name, some details about yourself and how people can reach you, for example by email..."
+    }
+  ]
+}
